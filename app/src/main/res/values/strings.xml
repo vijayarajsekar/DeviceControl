@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="app_name">பதிவுகள்</string>
+    <string name="str_recent_news">சமீபத்திய பதிவுகள்</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Side Menu Items -->
+    <string name="menu_title_1">Feeds</string>
+    <string name="menu_title_2">Friends</string>
+    <string name="menu_title_3">Add Friends</string>
+    <string name="menu_title_4">Messages</string>
+    <string name="menu_title_5">Dialer</string>
+    <string name="menu_title_6">Media</string>
+    <string name="menu_title_7">Settings</string>
+    <string name="menu_title_8">Logout</string>
+
+    <string name="str_loading">Loading . . .</string>
+
+    <string name="str_pref_name">PRF</string>
+
+    <!-- Menu Strings-->
+    <string name="menu_search">Search Friends</string>
+
+    <string name="alphabet">ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+
+</resources>

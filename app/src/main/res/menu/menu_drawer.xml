@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/feeds"
+            android:icon="@drawable/btn_news_feeds"
+            android:title="@string/menu_title_1" />
+        <item
+            android:id="@+id/friends"
+            android:icon="@drawable/btn_friends"
+            android:title="@string/menu_title_2" />
+        <!--<item-->
+            <!--android:id="@+id/addfriends"-->
+            <!--android:icon="@drawable/btn_add_friend"-->
+            <!--android:title="@string/menu_title_3" />-->
+
+        <item
+            android:id="@+id/messages"
+            android:icon="@drawable/btn_message"
+            android:title="@string/menu_title_4" />
+
+        <item
+            android:id="@+id/dialer"
+            android:icon="@drawable/btn_pstn"
+            android:title="@string/menu_title_5" />
+
+        <item
+            android:id="@+id/media"
+            android:icon="@drawable/btn_media"
+            android:title="@string/menu_title_6" />
+
+        <item
+            android:id="@+id/settings"
+            android:icon="@drawable/btn_setting"
+            android:title="@string/menu_title_7" />
+
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/btn_logout"
+            android:title="@string/menu_title_8" />
+
+    </group>
+
+</menu>
